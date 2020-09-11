@@ -1,0 +1,6 @@
+Git clone ctrl v shift + insert
+git status = ver se tem algo faltando
+git add . = adicionar algo ao repositório(Não adiciona direto)
+git commit -m "commit"
+git push = da um upload na atividade
+gif config --global user.email "paulo.guilherme7@hotmail.com"
